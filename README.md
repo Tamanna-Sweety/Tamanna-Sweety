@@ -1,41 +1,58 @@
-<h1 align="center">Hi, I'm Tamanna Akter Sweety</h1>
-<p align="center">Aspiring Developer • Passionate Learner • Tech Enthusiast</p>
+<h1 align="center">Tamanna Akter Sweety</h1>
+<p align="center">Focused on Web & Programming Fundamentals</p>
 
 ---
 
-## 👩‍💻 About Me
-- Focused on building a strong foundation in programming and web technologies  
-- Currently improving skills in **HTML, CSS, JavaScript, C, and Python**  
-- Interested in **Frontend Development** and exploring modern tools  
-- Always eager to learn, practice, and grow through real projects  
+## 🔹 About Me
+I am developing my skills step by step with a strong focus on writing clean code, improving problem-solving ability, and understanding core web technologies.  
+My goal is to build real projects, understand best practices, and grow into a confident developer.
 
 ---
 
-## 🛠 Skills
-- **Programming:** C, Python, JavaScript  
-- **Web:** HTML, CSS, Bootstrap  
-- **Tools:** Git, GitHub, VS Code  
+## 🔹 Core Skills
+**Languages**
+- C  
+- C++
+- Java
+- C#
+- JavaScript  
+
+**Web Technologies**
+- HTML  
+- CSS  
+- PHP 
+
+**Tools**
+- MIcrosoft Office   
 
 ---
 
-## 📊 GitHub Overview
+## 🔹 GitHub Statistics
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tamanna-Sweety&show_icons=true&theme=default" height="150" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Tamanna-Sweety&show_icons=true&include_all_commits=true&theme=graywhite" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna-Sweety&layout=compact&theme=default" height="150" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna-Sweety&layout=compact&theme=graywhite" />
 
 </div>
 
 ---
 
-## 📬 Contact
-- **Email:** tamannasweety000@gmail.com  
+## 🔹 Learning Focus
+- Strengthening programming logic  
+- Building small web projects  
+- Understanding frontend development workflow  
+- Improving code quality and consistency  
 
 ---
 
-## 📈 Professional Mindset
-I believe in consistency, clear goals, and continuous learning.  
-My journey is just beginning — and I’m committed to improving every day.
+## 🔹 Contact
+- **Email:** tstamannasweety@gmail.com
+
+---
+
+## 🔹 Professional Approach
+I believe in structured learning, continuous improvement, and disciplined practice.  
+Every project—big or small—is a step toward becoming a stronger developer.
 
 ---
