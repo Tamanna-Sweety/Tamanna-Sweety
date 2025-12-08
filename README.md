@@ -30,13 +30,12 @@ My goal is to build real projects, understand best practices, and grow into a co
 ## 🔹 GitHub Statistics
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Tamanna-Sweety&show_icons=true&include_all_commits=true&theme=graywhite" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Tamanna-Sweety&show_icons=true&include_all_commits=true&theme=default" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna-Sweety&layout=compact&theme=graywhite" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna-Sweety&layout=compact&theme=default" />
 
 </div>
 
----
 
 ## 🔹 Learning Focus
 - Strengthening programming logic  
