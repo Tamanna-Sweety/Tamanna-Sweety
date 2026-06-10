@@ -9,6 +9,7 @@
 I am **Tamanna Akter Sweety**, a **Computer Science and Engineering student** at **Uttara University, Bangladesh**. I am developing my skills step by step with a strong focus on writing clean code, improving my problem-solving ability, and understanding core web technologies.  
 My goal is to build real-world projects, understand industry best practices, and grow into a confident developer. Currently focused on AI/ML.
 
+--
 
 ### 🛠️ Skills  
 
