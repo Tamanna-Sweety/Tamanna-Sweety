@@ -4,11 +4,10 @@
 
 <h1 align="center">Sweety is here... 👋</h1>
 
-
 ### 👨‍🎓 About Me  
 
-I am **Tamanna Akter Sweety**, and a **Computer Science and Engineering student** at **Uttara University, Bangladesh**. I am developing my skills step by step with a strong focus on writing clean code, improving problem-solving ability, and understanding core web technologies.  
-My goal is to build real projects, understand best practices, and grow into a confident developer.
+I am **Tamanna Akter Sweety**, a **Computer Science and Engineering student** at **Uttara University, Bangladesh**. I am developing my skills step by step with a strong focus on writing clean code, improving my problem-solving ability, and understanding core web technologies.  
+My goal is to build real-world projects, understand industry best practices, and grow into a confident developer.
 
 ---
 
@@ -24,10 +23,10 @@ My goal is to build real projects, understand best practices, and grow into a co
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
- <img width="12" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 </div>
 <br>
@@ -91,7 +90,6 @@ My goal is to build real projects, understand best practices, and grow into a co
 ### 📩 Contact Me  
 
 <div align="center">
-  
   <a href="https://www.linkedin.com/in/tamanna-akter-sweety-793b7438a/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
@@ -99,7 +97,6 @@ My goal is to build real projects, understand best practices, and grow into a co
   <a href="mailto:tstamannasweety@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-
 </div>
 
 ---
