@@ -98,12 +98,3 @@ My goal is to build real-world projects, understand industry best practices, and
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tamanna-Sweety&theme=radical" height="190" alt="GitHub streak stats" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tamanna-Sweety.Tamanna-Sweety" alt="Visitor badge"/>
-</p>
