@@ -63,12 +63,6 @@ My goal is to build real-world projects, understand industry best practices, and
   <img src="https://img.icons8.com/fluency/48/000000/code-blocks.png" height="40" alt="Code::Blocks" /> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" height="40" alt="Cisco Packet Tracer" />
 </div>
 <br>
 
